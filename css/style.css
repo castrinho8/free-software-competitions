@@ -124,7 +124,6 @@
 /* ---- END COLORS ---- */
 
 #thanks-slide .author {
-  margin-top: 10%;
 }
 
 #thanks-slide .author img {
@@ -150,6 +149,8 @@
   background: white;
 }
 
-,reveal section img {
+.reveal section img {
   box-shadow: none;
+  border: none;
+  background: none;
 }
